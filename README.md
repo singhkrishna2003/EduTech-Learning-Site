@@ -31,9 +31,11 @@ MongoDB Atlas </li>
 
 # Login & Signup Page:
 <ul>
- <li><b>Login:</b> Collects essential user information (e.g., email, name and password) for account creation and future interactions.</li>>
-<li><b>Signup: </b>Verifies the identity of users to ensure secure access to the website’s services and resources.</li>
+ <li><b>Login:</b> Collects essential user information (e.g., email, name and password) for account creation and future interactions.</li>
+ <li><b>Signup: </b>Verifies the identity of users to ensure secure access to the website’s services and resources.</li>
 </ul>
+
+![image](https://github.com/user-attachments/assets/4a90d5e1-973b-4b9c-973a-436e07a618d0)
 
 
 # Index Module :
