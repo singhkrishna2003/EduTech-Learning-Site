@@ -37,6 +37,15 @@ MongoDB Atlas </li>
 
 ![image](https://github.com/user-attachments/assets/4a90d5e1-973b-4b9c-973a-436e07a618d0)
 
+![image](https://github.com/user-attachments/assets/461d30d5-a0ee-412f-9e23-266975add0f7)
+
+# Landing Page:
+<p>Contains a search bar used for finding relevant or specific courses available on the EduTech site.<br>
+Explore Courses section, which displays all the courses available for learning.<br>
+Hero section, which highlights some top-rated or featured courses.<br></p>
+
+![image](https://github.com/user-attachments/assets/fded37d3-e305-4520-a4ca-832f0d6eb9dc)
+
 
 # Index Module :
 <p> Index Module Contain all the linked pages such as Register page,
