@@ -14,7 +14,7 @@ Provide features such as course management, user authentication, and interactive
 <b>Database Management:</b> MongoDB +
 MongoDB Atlas <br>
 
-#Frameworks & Libraries:
+# Frameworks & Libraries:
 <ul>
 <li><b>Backend:</b>Express, JWT (Authentication)</li>
 <li>Frontend: React.js, React Router, Shadcn/UI</li>
