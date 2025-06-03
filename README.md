@@ -1,5 +1,4 @@
-# Edu Tech <small > ![image](https://github.com/user-attachments/assets/2904f94c-4dd3-489f-b403-2ff752fe1eca) </small>
- <hr>
+# EduTech The_Learning_Site <hr>
 
 # Introduction : 
 <p>This project focuses on developing an EduTech Website using the MERN stack (MongoDB, Express.js, React.js, Node.js).<br>
