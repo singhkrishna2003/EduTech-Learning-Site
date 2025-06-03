@@ -1,4 +1,4 @@
-# Edu Tech ![image](https://github.com/user-attachments/assets/2904f94c-4dd3-489f-b403-2ff752fe1eca)
+# Edu Tech <small > ![image](https://github.com/user-attachments/assets/2904f94c-4dd3-489f-b403-2ff752fe1eca) </small>
  <hr>
 
 # Introduction : 
