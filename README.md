@@ -47,6 +47,25 @@ Hero section, which highlights some top-rated or featured courses.<br></p>
 ![image](https://github.com/user-attachments/assets/fded37d3-e305-4520-a4ca-832f0d6eb9dc)
 
 
+# Explore Courses Section:
+<p>
+This module contains a list of all courses available for sale.<br>
+This module also includes a filter section to help narrow down the courses.<br>
+It also features a categories section that helps users find courses based on specific categories.<br>
+</p>
+
+![image](https://github.com/user-attachments/assets/4b3cc9b0-d747-46d9-b3e9-6c38e60ea7c9)
+
+# My Learning Section:
+<p>
+This section contains all the courses that the user has enrolled in. <br>
+Users can also continue their learning journey using this section. <br>
+</p>
+
+![image](https://github.com/user-attachments/assets/c14b8e2d-4dab-4ece-83d3-39008ab3fffb)
+
+
+
 # Index Module :
 <p> Index Module Contain all the linked pages such as Register page,
 Login page , Search Engine , Setting page , Shopping page and all Added Books.
