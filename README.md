@@ -29,6 +29,12 @@ MongoDB Atlas </li>
 <li><b>React Debugging: </b>React Developer Tools & Redux DevTools (Chrome extensions) & Chrome Development Tools</li>
 </ul>
 
+# Light Mode:
+![image](https://github.com/user-attachments/assets/9ffb3207-c88d-4ca9-8298-c3b0e42636aa)
+
+# Dark Mode:
+![image](https://github.com/user-attachments/assets/fded37d3-e305-4520-a4ca-832f0d6eb9dc)
+
 # Login & Signup Page:
 <ul>
  <li><b>Login:</b> Collects essential user information (e.g., email, name and password) for account creation and future interactions.</li>
@@ -114,7 +120,5 @@ They can also protect the lecture videos from free access.<br>
 
 ![image](https://github.com/user-attachments/assets/ac00972c-6c35-42a3-ba89-6df564b0d267)
 
-# Light Mode:
 
-![image](https://github.com/user-attachments/assets/9ffb3207-c88d-4ca9-8298-c3b0e42636aa)
 
