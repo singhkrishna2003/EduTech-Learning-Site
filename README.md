@@ -7,20 +7,33 @@ It provides a dynamic and user-friendly platform for online education, enabling 
 Provide features such as course management, user authentication, and interactive learning tools.<br></p>
 
 # Development Tools:
-<b>Code Editor:</b> Visual Studio Code <br>
-<b>Version Control:</b> Git with GitHub or GitLab <br>
-<b>Node.js:</b> Runtime environment and npm 
-(built-in package manager) <br>
-<b>Database Management:</b> MongoDB +
-MongoDB Atlas <br>
+<ul>
+<li> <b>Code Editor:</b> Visual Studio Code</li>
+<li><b>Version Control:</b> Git with GitHub or GitLab</li>
+<li><b>Node.js:</b> Runtime environment and npm 
+(built-in package manager)</li> 
+<li><b>Database Management:</b> MongoDB +
+MongoDB Atlas </li>
+</ul>
 
 # Frameworks & Libraries:
 <ul>
-<li><b>Backend:</b>Express, JWT (Authentication)</li>
-<li>Frontend: React.js, React Router, Shadcn/UI</li>
-<li>State Management: Redux/Context API</li>
+<li><b>Backend: </b>Express, JWT (Authentication)</li>
+<li><b>Frontend: </b>React.js, React Router, Shadcn/UI</li>
+<li><b>State Management: </b> Redux/Context API</li>
 </ul>
 
+# Testing & Debugging:
+<ul>
+ <li><b>API Testing: </b> Postman </li>
+<li><b>React Debugging: </b>React Developer Tools & Redux DevTools (Chrome extensions) & Chrome Development Tools</li>
+</ul>
+
+# Login & Signup Page:
+<ul>
+ <li><b>Login:</b> Collects essential user information (e.g., email, name and password) for account creation and future interactions.</li>>
+<li><b>Signup: </b>Verifies the identity of users to ensure secure access to the website’s services and resources.</li>
+</ul>
 
 
 # Index Module :
